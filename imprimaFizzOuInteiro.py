@@ -4,3 +4,5 @@ if (numero%3 == 0):
 	print("Fizz")
 else:
 	print(numero)
+
+print("Nova linha de código")
