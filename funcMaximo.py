@@ -6,5 +6,7 @@ def maximo(x,y,z):
 	else: 
 		return z
 
-
+def teste_maximo0():
+    assert maximo(999,3,50) == 999
+    
 
