@@ -1,13 +1,10 @@
-def maximo(x,y):
-	if x > y:
+def maximo(x,y,z):
+	if x > y and x > z:
 		return x
-	else:
+	elif y > x and y > z:
 		return y
+	else: 
+		return z
 
 
-
-num1 = int(input("Insira o primeiro número: "))	
-num2 = int(input("Insira o segundo número: "))
-
-print(maximo(num1,num2))
 
