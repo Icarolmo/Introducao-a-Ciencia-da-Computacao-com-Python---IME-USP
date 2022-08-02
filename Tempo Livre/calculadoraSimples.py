@@ -71,9 +71,9 @@ while opcao > 0 and opcao < 7:
             aux = 1
             div = divisao(num1,num2)
             while aux != 0:
-                print('O resultado da sua divisao inicial foi', div)
-                aux = float(input('Deseja acrescentar a divisao?\nSe sim, insira o divisor para dividir o resultado novamente, se nao insira zero: '))
-                div /= aux
+                div = div / aux
+                print('O resultado da sua divisao inicial foi', div)   
+                aux = float(input('Deseja acrescentar a divisao?\nSe sim, insira o divisor para dividir o resultado novamente, se nao insira zero: '))      
             print('O resultado da sua divisao final foi', div)
             
             
@@ -83,8 +83,8 @@ while opcao > 0 and opcao < 7:
             aux = 1
             expo = exponenciacao(num1,num2)
             while aux != 0:
-                print('O resultado da exponenciacao inicial e', expo)
                 expo = math.pow(expo,aux)
+                print('O resultado da exponenciacao inicial e', expo)    
                 aux = float(input('Deseja acrescentar a exponenciacao?\nSe sim, insira o expoente que ira elevar o resultado, se nao insira zero: '))
             print('O resultado da sua exponenciacao final foi', expo)
             
