@@ -1,7 +1,7 @@
 # Introdução a Ciência da Computação com Python parte I - IME/USP
 
-<img src="https://user-images.githubusercontent.com/72323389/182292680-8f8145ac-1635-4a8b-ae67-26fcbf243d8c.png" height="400" width="400"> <img src="https://www.arquer.com.br/wp-content/uploads/2017/08/USP.jpg" heigth="600"
-width="600">
+<img src="https://user-images.githubusercontent.com/72323389/182292680-8f8145ac-1635-4a8b-ae67-26fcbf243d8c.png" height="250" width="300"> <img src="https://www.arquer.com.br/wp-content/uploads/2017/08/USP.jpg" heigth="300"
+width="300">
 
 ### Este repositório tem a utilizade de armazenar exercicíos, testes, projetos e afins advindos do curso de <strong><i>Introdução a Ciência da Computação com Python</strong></i> oferecido na plataforma Coursera.
 ### O curso é ministrado pelo Professor Fabio Kon do Instituto de Matemática e Estatística da Universidade de São Paulo - IME/USP 
